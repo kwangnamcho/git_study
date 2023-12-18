@@ -1,1 +1,6 @@
 master - 저장소를 만들때 자동으로 만들어지는 기본 브랜치
+
+1. 브랜치 목록보기 -> git branch
+2. 브랜치 생성하기 -> git branch 새브랜치명
+
+3. 특정 브랜치로 작업위치(Head) 변경 -> git checkout 브랜치명
