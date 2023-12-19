@@ -22,3 +22,8 @@ master - 저장소를 만들때 자동으로 만들어지는 기본 브랜치
    git push –u origin main
 
 5. 소스트리 프로그램 설치
+
+반대로 삭제시에는 반드시
+
+C:\Users\계정명\AppData\Local의 Atlassian 폴더를 함께 삭제
+C:\Users\계정명\AppData\Roaming의 Atlassian 폴더를 함께 삭제
